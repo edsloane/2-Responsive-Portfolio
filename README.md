@@ -8,3 +8,4 @@
 - Tested responsiveness in DevTools against xs/sm screens. 
 - Purposfully let "Porftolio" carousel bleed into edges.
 - Validated HTML via https://validator.w3.org/ 
+   - Altered headers, image alt attributes and tags as a result. 
